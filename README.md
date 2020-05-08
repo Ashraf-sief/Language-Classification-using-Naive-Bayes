@@ -6,5 +6,5 @@ We will accomplish he final task by completing each task in the project:
 * <b>Task 1</b>: Exploratory Data Analysis + Visualization
 * <b>Task 2</b>: Data Cleaning and Preprocessing
 * <b>Task 3</b>: The Naive Bayes Model
-* <b>Task 4</b>: Simple Adjustments to the Naive Bayes Model
-* <b>Task 5</b>: Using Advanced Techniques to Improve Performance
+* <b>Task 4</b>: Highlighting shortcomings of model and implementing small changes to improve performance
+* <b>Task 5</b>: Use advanced Natural Language Processing techniques to improve model performance and address class imbalance (subword units
